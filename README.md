@@ -1,1 +1,1 @@
-# news-template
+# news template
